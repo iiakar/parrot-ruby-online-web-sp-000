@@ -5,6 +5,7 @@ def parrot(phrase = "Squawk!")
   puts "#{phrase}"
 end 
 
+parrot
 
 # a = Parrot.new(phrase,"The Big Bird")
 # return a 
