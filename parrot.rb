@@ -3,13 +3,9 @@
 
 def parrot(phrase = "Squawk!")
    puts "#{phrase}"
-   "#{phrase}"
+   #{phrase}
 end 
 
-parrot
-
-# a = Parrot.new(phrase,"The Big Bird")
-# return a 
 
  
 
