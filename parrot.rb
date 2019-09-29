@@ -6,8 +6,8 @@ def parrot(phrase = "Squawk!")
 end 
 
 
-a = Parrot.new(phrase,"The Big Bird")
- return a 
+# a = Parrot.new(phrase,"The Big Bird")
+# return a 
 
  
 
